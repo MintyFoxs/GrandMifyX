@@ -2,7 +2,6 @@ GrandMifyX is a set of Fabric mods with a huge number of mods over 200.
 
  
 
- https://media.forgecdn.net/avatars/thumbnails/536/198/64/64/637857909738739436.png
 
  
 
