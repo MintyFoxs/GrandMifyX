@@ -2,7 +2,7 @@
 	// Client-side settings
 	"client": {
 		// If true, floating tooltips are shown above trading stations.
-		"showTradingStationTooltips": true,
+		"showTradingStationTooltips": false,
 		// If true, Adorn items will also be shown in matching vanilla item tabs.
 		"showItemsInStandardGroups": true
 	},

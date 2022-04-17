@@ -21,9 +21,9 @@ customization {
 customization {
   identifier = %id=400310%
   orientation = top-left
-  x = 5
+  x = 10
   action = movebutton
-  y = 38
+  y = 60
 }
 
 customization {
@@ -40,6 +40,11 @@ customization {
   action = setbuttontexture
   backgroundhovered = config\images\button-click.png
   backgroundnormal = config\images\button.png
+}
+
+customization {
+  identifier = %id=400358%
+  action = hidebutton
 }
 
 customization {
@@ -82,9 +87,9 @@ customization {
 customization {
   identifier = %id=400286%
   orientation = top-left
-  x = 5
+  x = 10
   action = movebutton
-  y = 15
+  y = 31
 }
 
 customization {
@@ -106,9 +111,9 @@ customization {
 customization {
   identifier = %id=400334%
   orientation = top-left
-  x = 5
+  x = 10
   action = movebutton
-  y = 61
+  y = 88
 }
 
 customization {
@@ -130,9 +135,9 @@ customization {
 customization {
   identifier = %id=400394%
   orientation = top-left
-  x = 5
+  x = 10
   action = movebutton
-  y = 106
+  y = 116
 }
 
 customization {
@@ -154,9 +159,9 @@ customization {
 customization {
   identifier = %id=502394%
   orientation = bottom-left
-  x = 5
+  x = 10
   action = movebutton
-  y = -34
+  y = -199
 }
 
 customization {

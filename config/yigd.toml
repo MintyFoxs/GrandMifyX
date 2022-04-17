@@ -2,7 +2,7 @@
 generateGraves = true
 retrievalType = "ON_USE"
 dropType = "IN_INVENTORY"
-dropPlayerHead = false
+dropPlayerHead = true
 dropGraveBlock = false
 requireGraveItem = false
 generateEmptyGraves = false
@@ -20,11 +20,11 @@ graveSpawnHeight = 2
 lastResort = "DROP_ITEMS"
 putXpInGrave = true
 defaultXpDrop = false
-xpDropPercent = 50
+xpDropPercent = 100
 tellDeathPos = true
 
 [graveSettings.graveRobbing]
-enableRobbing = true
+enableRobbing = false
 onlyMurderer = false
 afterTime = 1
 timeType = "HOURS"

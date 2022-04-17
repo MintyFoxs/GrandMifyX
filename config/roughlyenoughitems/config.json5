@@ -2,7 +2,7 @@
 	"basics": {
 		"favorites": [],
 		// Declares whether cheating mode is on.
-		"cheating": false,
+		"cheating": "WHEN_CREATIVE",
 		"favoritesEnabled": true,
 		"keyBindings": {
 			"recipeKeybind": {
@@ -18,11 +18,11 @@
 				"modifier": 2
 			},
 			"previousPageKeybind": {
-				"keyCode": "key.keyboard.unknown",
+				"keyCode": "key.keyboard.left",
 				"modifier": 0
 			},
 			"nextPageKeybind": {
-				"keyCode": "key.keyboard.unknown",
+				"keyCode": "key.keyboard.right",
 				"modifier": 0
 			},
 			"focusSearchFieldKeybind": {
@@ -152,7 +152,7 @@
 	},
 	"functionality": {
 		// Declares whether REI should remove the recipe book.
-		"disableRecipeBook": false,
+		"disableRecipeBook": true,
 		// Declares whether mob effects should be on the left side instead of the right side.
 		"leftSideMobEffects": false,
 		// Declares whether subsets is enabled.

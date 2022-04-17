@@ -1,5 +1,5 @@
 {
-  "useSteveModel": false,
+  "useSteveModel": true,
   "GuardsRunFromPolarBears": true,
   "GuardFormation": true,
   "ClericHealing": true,

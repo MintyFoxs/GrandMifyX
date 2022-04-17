@@ -504,6 +504,10 @@
     "blockus:white_oak_sapling": {
       "spawnRateFactor": 1.0,
       "isConiferBlock": false
+    },
+    "twm:mangrove_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
     }
   },
   "leafSpawners": [],
