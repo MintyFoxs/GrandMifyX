@@ -1,0 +1,88 @@
+# LambDynamicLights configuration.
+# The dynamic lights mode
+mode = "fancy"
+
+# Light sources settings.
+[light_sources]
+	# Enables water-sensitive light sources check. This means that water-sensitive items will not light up when submerged in water.
+	water_sensitive_check = true
+	# Enable block entities light source.
+	block_entities = true
+	# Enable entities light source.
+	entities = true
+	# TNT lighting mode. May be off, simple or fancy.
+	tnt = "off"
+	# Creeper lighting mode. May be off, simple or fancy.
+	creeper = "simple"
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				chicken = true
+				axolotl = true
+				bee = true
+				chest_minecart = true
+				tropical_fish = true
+				pig = true
+				skeleton = true
+				bat = true
+				cat = true
+				zombie = true
+				drowned = true
+				player = true
+				item = true
+				turtle = true
+				salmon = true
+				tnt_minecart = true
+				goat = true
+				item_frame = true
+				painting = true
+				glow_squid = true
+				cod = true
+				witch = true
+				glow_item_frame = false
+				squid = true
+				spider = true
+				parrot = true
+				creeper = true
+				enderman = true
+
+			[light_sources.settings.entities.graveyard]
+				revenant = true
+				skeleton_creeper = true
+				ghoul = true
+
+			[light_sources.settings.entities.betteranimalsplus]
+				shark = true
+				deer = true
+				feralwolf = true
+				jellyfish = true
+				piranha = true
+				goose = true
+				bobbit_worm = true
+				songbird = true
+				nautilus = true
+				badger = true
+				eel_saltwater = true
+				boar = true
+				squirrel = true
+				brownbear = true
+				whale = true
+				horseshoecrab = true
+				butterfly = true
+				turkey = true
+				pheasant = true
+				lammergeier = true
+
+			[light_sources.settings.entities.earthtojavamobs]
+				jolly_llama = true
+				skeleton_wolf = true
+				dairy_cow = true
+				cream_cow = true
+				flecked_sheep = true
+
+			[light_sources.settings.entities.adventurez]
+				amethyst_golem = true
+
