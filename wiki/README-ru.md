@@ -1,34 +1,27 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/59809670/163719146-5fa65cff-07fe-4d28-8cb8-f52c841dc2b1.png">
 </div>
- <h1 align="center">Hi there, I'm <a href="https://vk.com/minty.foxs" target="_blank">MintyFoxs</a> 
+ <h1 align="center">И снова здравствуй <3
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">GrandMifyX is a set of Fabric mods with a huge number of mods over 200. </h3>
-<div align="center">
-<img src="https://github.com/MintyFoxs/wiki/blob/master/img/main.png?raw=true" height="190" weight="338">
-</div>
-
-<h6 align="center">Various mods related to research, magic and technology have been added to the modpack.</h6>
+<h2 align="center">Данная статья ознакомит вас с началом игры</h2>
 
 
-<h6 align="center">Also in the package there are mods that add beautiful generation and new structures.</h6>
+<h4 align="center">При создании мира, вам нужно выбрать сущность за которую вы будете играть (например: человек или авиан), ваш класс (например: придурок или шахтёр), и ваше проклятие (например: не проклят или кошачье проклятие). У каждой характеристики есть свои особенности, советую анимательно прочитать их описание перед выбором, так как выбор нельзя изменить. Определившись с характеристиками вы попадаете в этот чудесный мир.</h4>
 
+<h4 align="center">В начале игры вам выдаётся стартовый набор: Dank 2 тира(Dank является неким переносным хранилищем), стаместка (для создания разных вариаций блоков), медные кирка и топор, деревянный мачете, 8 стейков, щит и кожанные ботинки.</h4>
 
-<h6 align="center">In the future, a quest system and interconnected crafting recipes from different mods will be qualitatively developed. The mod pack runs with 4 GB of RAM and contains many optimization mods and fixes.</h6>
-<div align="center">
-<img src="https://github.com/MintyFoxs/wiki/blob/master/img/class.png?raw=true" height="290" weight="290">
-<img src="https://github.com/MintyFoxs/wiki/blob/master/img/curse.png?raw=true" height="290" weight="290">
-<img src="https://github.com/MintyFoxs/wiki/blob/master/img/origin.png?raw=true" height="290" weight="290">
-</div>
+<h2 align="center">Особенности сборки</h2>
 
-
-<h6 align="center">At the beginning of the game you have to choose a class, profession and a factor affecting the complexity of the game.</h6>
-<div align="center">
-<img src="https://github.com/MintyFoxs/wiki/blob/master/img/kit.png?raw=true" height="300" weight="300">
-</div>
-
-<h6 align="center">When creating a world, a starter kit will be available to you</h6>
+<h4 align="center">Деревья топором срубаются полностью, также любой блок можно сломать зоной в 64 блока хажав клавишу X(ч). При зажатой клавиши X(ч) + shift можно колёсиком мыши менять режим ломания блоков (отображается визуально). Учтите что при ломании блоков с зажатой клавишей тратится голод. Также хорошей особеностью является работоспособность шёлкового касания на спавнеры. </4h>
  
+<h4 align="center">В данной сборке собраны самые замечательные моды на кастомную генерацию всех миров, таких как "Обычный мир", "Адский мир", "Энд мир"</h4>
 
+<h4 align="center">Вы можете перемещать некоторые блоки и всех животных с помощью shift + пкм. (Например: стол зачарования, сундук, верстак, корова, овца, курица). !!!ВАЖНО!!! Переноска спавнеров отключена, так как доступен способ сломать спавнер киркой на шёлковое касание. (При переносе таким способом на вас накладывается замедление 2 уровня)</h4>
+
+<h4 align="center">Из сборки удалены некоторые элементы навигации, такие как моды, ресурс паки и прочие ненужные кнопки. Моды и ресурс паки отключены в целях предотвращения изменений и использования эксплоитов или чит текстур, в случае если вы всё таки найдёте способ попасть в данные вкладки, вы не сможете изменить уже установленные ресурс паки, вскорем времени также будет отключена возможность изменять моды или добавлять новые.</h4>
+<h4 align="center">Статья будет пополняться и вскорем времени тут будут картинки, ну а пока мне лень.</h4>
+<h4 align="center">Всем позитива и добра <3</h4>
+<h4 align="center"></h4>
+<h4 align="center"></h4>
 
  
