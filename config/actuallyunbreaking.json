@@ -1,8 +1,0 @@
-{
-  "maxLevelOnly": false,
-  "useUnbreakableAtLevel": false,
-  "unbreakableAtLevel": 3,
-  "mendingIncompatibility": true,
-  "editEnchantedLootGeneration": true,
-  "useUnbreakableTag": true
-}
